@@ -1,8 +1,6 @@
 # exporter
 table exporter writen by python-v2.7.x
 
-# -*- coding: utf-8 -*-
-#
 
 1、exporter 是一个非常强大的数据导出工具，可以将各种格式的 excel 表格导出成各种不同格式的配置文件。</br>
    默认支持的数据源插件有：xls、xlsx、xlsm、csv<br>
