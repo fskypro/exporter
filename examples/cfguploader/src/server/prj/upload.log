@@ -1,0 +1,1160 @@
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:55508
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 11:47:11][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 11:47:11][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_114718.json'
+[DEBUG][18-05-21 11:47:11][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 11:47:11][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 11:47:11][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 11:47:11][user=hyw]: save upload file(activity_llogin.json) successfully!
+[ERROR][18-05-21 11:47:11][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 11:47:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:58910
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 11:53:11][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 11:53:11][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_115351.json'
+[DEBUG][18-05-21 11:53:11][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 11:53:11][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 11:53:11][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 11:53:11][user=hyw]: save upload file(activity_llogin.json) successfully!
+[ERROR][18-05-21 11:53:11][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 11:53:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:59439
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 11:54:11][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 11:54:11][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_115432.json'
+[DEBUG][18-05-21 11:54:11][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 11:54:11][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 11:54:11][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 11:54:11][user=hyw]: save upload file(activity_llogin.json) successfully!
+[ERROR][18-05-21 11:54:11][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 11:54:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:61772
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 11:58:11][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 11:58:11][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_115854.json'
+[DEBUG][18-05-21 11:58:11][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 11:58:11][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 11:58:11][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 11:58:11][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 11:58:11][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[ERROR][18-05-21 11:58:11][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 11:58:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62256
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 12:00:12][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 12:00:12][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_120000.json'
+[DEBUG][18-05-21 12:00:12][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 12:00:12][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 12:00:12][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:00:12][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:00:12][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[ERROR][18-05-21 12:00:12][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 12:00:12][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:63438
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 12:02:12][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 12:02:12][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_120218.json'
+[DEBUG][18-05-21 12:02:12][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 12:02:12][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 12:02:12][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:02:12][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:02:12][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[ERROR][18-05-21 12:02:12][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 12:02:12][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:64008
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 12:03:12][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 12:03:12][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_120316.json'
+[DEBUG][18-05-21 12:03:12][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 12:03:12][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 12:03:12][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:03:12][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:03:12][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[ERROR][18-05-21 12:03:12][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 12:03:12][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:64384
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 12:04:12][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 12:04:12][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_120400.json'
+[DEBUG][18-05-21 12:04:12][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 12:04:12][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 12:04:12][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:04:12][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:04:12][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[ERROR][18-05-21 12:04:12][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 12:04:12][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65000
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 12:04:12][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 12:04:12][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_120451.json'
+[DEBUG][18-05-21 12:04:12][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 12:04:12][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 12:04:12][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:04:12][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:04:12][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[DEBUG][18-05-21 12:04:12][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:60890
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 12:54:12][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=681
+[DEBUG][18-05-21 12:54:12][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_125411.json'
+[DEBUG][18-05-21 12:54:12][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 12:54:12][user=hyw]: begin receive file(length=681): activity_llogin.json
+[DEBUG][18-05-21 12:54:12][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:54:12][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 12:54:12][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[DEBUG][18-05-21 12:54:12][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:51932
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 16:21:16][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][18-05-21 16:21:16][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_162109.json'
+[DEBUG][18-05-21 16:21:16][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 16:21:16][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][18-05-21 16:21:16][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 16:21:16][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 16:21:16][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[DEBUG][18-05-21 16:21:16][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:52100
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 16:21:16][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][18-05-21 16:21:16][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_162133.json'
+[DEBUG][18-05-21 16:21:16][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 16:21:16][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][18-05-21 16:21:16][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 16:21:16][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 16:21:16][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[DEBUG][18-05-21 16:21:16][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:55015
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 16:27:16][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][18-05-21 16:27:16][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_162706.json'
+[DEBUG][18-05-21 16:27:16][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 16:27:16][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][18-05-21 16:27:16][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 16:27:16][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 16:27:16][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[DEBUG][18-05-21 16:27:16][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:64101
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 17:32:17][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][18-05-21 17:32:17][user=hyw]: file '/data/share/test/pytest/cfgserver/files/activity_llogin.json' has been exists! it has been move to '/data/share/test/pytest/cfgserver/files/activity_llogin/20180521_173236.json'
+[DEBUG][18-05-21 17:32:17][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_llogin.json'!
+[DEBUG][18-05-21 17:32:17][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][18-05-21 17:32:17][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 17:32:17][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 17:32:17][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_llogin.json' successfully!
+[DEBUG][18-05-21 17:32:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:51364
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 17:38:17][user=hyw]: receive and unpack upload information successfully: filename='activity_novice.json', filelen=617
+[DEBUG][18-05-21 17:38:17][user=hyw]: begin new upload file '/data/share/test/pytest/cfgserver/files/activity_novice.json'!
+[DEBUG][18-05-21 17:38:17][user=hyw]: begin receive file(length=617): activity_novice.json
+[DEBUG][18-05-21 17:38:17][user=hyw]: receive file(activity_novice.json) successfully!
+[DEBUG][18-05-21 17:38:17][user=hyw]: save upload file(activity_novice.json) successfully!
+[DEBUG][18-05-21 17:38:17][user=hyw]: excute command 'cat /data/share/test/pytest/cfgserver/files/activity_novice.json' successfully!
+[DEBUG][18-05-21 17:38:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:11553
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 18:08:18][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=617
+[DEBUG][18-05-21 18:08:18][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_fcr.json'!
+[DEBUG][18-05-21 18:08:18][user=hyw]: begin receive file(length=617): activity_fcr.json
+[DEBUG][18-05-21 18:08:18][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 18:08:18][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 18:08:18][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_fcr.json' successfully!
+[DEBUG][18-05-21 18:08:18][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:10035
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 18:09:18][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=617
+[DEBUG][18-05-21 18:09:18][user=hyw]: file '/data/zkroot/zkconfigs/activity_fcr.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_fcr/20180521_180947.json'
+[DEBUG][18-05-21 18:09:18][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_fcr.json'!
+[DEBUG][18-05-21 18:09:18][user=hyw]: begin receive file(length=617): activity_fcr.json
+[DEBUG][18-05-21 18:09:18][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 18:09:18][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 18:09:18][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_fcr.json' successfully!
+[DEBUG][18-05-21 18:09:18][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:10897
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 18:10:18][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][18-05-21 18:10:18][user=hyw]: file '/data/zkroot/zkconfigs/activity_llogin.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_llogin/20180521_181012.json'
+[DEBUG][18-05-21 18:10:18][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_llogin.json'!
+[DEBUG][18-05-21 18:10:18][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][18-05-21 18:10:18][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 18:10:18][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 18:10:18][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_llogin.json' successfully!
+[DEBUG][18-05-21 18:10:18][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:10371
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 18:13:18][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=617
+[DEBUG][18-05-21 18:13:18][user=hyw]: file '/data/zkroot/zkconfigs/activity_fcr.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_fcr/20180521_181344.json'
+[DEBUG][18-05-21 18:13:18][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_fcr.json'!
+[DEBUG][18-05-21 18:13:18][user=hyw]: begin receive file(length=617): activity_fcr.json
+[DEBUG][18-05-21 18:13:18][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 18:13:18][user=hyw]: save upload file(activity_fcr.json) successfully!
+[ERROR][18-05-21 18:18:18][user=hyw]: execute command(/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_fcr.json) fail: 
+[ERROR][18-05-21 18:18:18][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][18-05-21 18:18:18][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:11224
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 19:53:19][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][18-05-21 19:53:19][user=hyw]: file '/data/zkroot/zkconfigs/activity_llogin.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_llogin/20180521_195332.json'
+[DEBUG][18-05-21 19:53:19][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_llogin.json'!
+[DEBUG][18-05-21 19:53:19][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][18-05-21 19:53:19][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 19:53:19][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][18-05-21 19:53:19][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_llogin.json' successfully!
+[DEBUG][18-05-21 19:53:19][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:11593
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 19:53:19][user=hyw]: receive and unpack upload information successfully: filename='activity_novice.json', filelen=617
+[DEBUG][18-05-21 19:53:19][user=hyw]: file '/data/zkroot/zkconfigs/activity_novice.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_novice/20180521_195344.json'
+[DEBUG][18-05-21 19:53:19][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_novice.json'!
+[DEBUG][18-05-21 19:53:19][user=hyw]: begin receive file(length=617): activity_novice.json
+[DEBUG][18-05-21 19:53:19][user=hyw]: receive file(activity_novice.json) successfully!
+[DEBUG][18-05-21 19:53:19][user=hyw]: save upload file(activity_novice.json) successfully!
+[DEBUG][18-05-21 19:53:19][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_novice.json' successfully!
+[DEBUG][18-05-21 19:53:19][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:12834
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 19:56:19][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:12941
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 19:58:19][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:10257
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 19:58:19][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:11236
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 19:59:19][user=hyw]: receive and unpack upload information successfully: filename='store.conf', filelen=3786
+[DEBUG][18-05-21 19:59:19][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/store.conf'!
+[DEBUG][18-05-21 19:59:19][user=hyw]: begin receive file(length=3786): store.conf
+[DEBUG][18-05-21 19:59:19][user=hyw]: receive file(store.conf) successfully!
+[DEBUG][18-05-21 19:59:19][user=hyw]: save upload file(store.conf) successfully!
+[DEBUG][18-05-21 19:59:19][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/store.conf' successfully!
+[DEBUG][18-05-21 19:59:19][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:9221
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 20:00:20][user=hyw]: receive and unpack upload information successfully: filename='propitems.conf', filelen=15545
+[DEBUG][18-05-21 20:00:20][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/propitems.conf'!
+[DEBUG][18-05-21 20:00:20][user=hyw]: begin receive file(length=15545): propitems.conf
+[DEBUG][18-05-21 20:00:20][user=hyw]: receive file(propitems.conf) successfully!
+[DEBUG][18-05-21 20:00:20][user=hyw]: save upload file(propitems.conf) successfully!
+[DEBUG][18-05-21 20:00:20][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/propitems.conf' successfully!
+[DEBUG][18-05-21 20:00:20][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:9257
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 20:03:20][user=hyw]: receive and unpack upload information successfully: filename='goodslist.conf', filelen=6725
+[DEBUG][18-05-21 20:03:20][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/goodslist.conf'!
+[DEBUG][18-05-21 20:03:20][user=hyw]: begin receive file(length=6725): goodslist.conf
+[DEBUG][18-05-21 20:03:20][user=hyw]: receive file(goodslist.conf) successfully!
+[DEBUG][18-05-21 20:03:20][user=hyw]: save upload file(goodslist.conf) successfully!
+[DEBUG][18-05-21 20:03:20][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/goodslist.conf' successfully!
+[DEBUG][18-05-21 20:03:20][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:12985
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 20:05:20][user=hyw]: receive and unpack upload information successfully: filename='propitems.conf', filelen=15545
+[DEBUG][18-05-21 20:05:20][user=hyw]: file '/data/zkroot/zkconfigs/propitems.conf' has been exists! it has been move to '/data/zkroot/zkconfigs/propitems/20180521_200510.conf'
+[DEBUG][18-05-21 20:05:20][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/propitems.conf'!
+[DEBUG][18-05-21 20:05:20][user=hyw]: begin receive file(length=15545): propitems.conf
+[DEBUG][18-05-21 20:05:20][user=hyw]: receive file(propitems.conf) successfully!
+[DEBUG][18-05-21 20:05:20][user=hyw]: save upload file(propitems.conf) successfully!
+[DEBUG][18-05-21 20:05:20][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/propitems.conf' successfully!
+[DEBUG][18-05-21 20:05:20][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:12564
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 20:08:20][user=fs]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=617
+[DEBUG][18-05-21 20:08:20][user=fs]: file '/data/zkroot/zkconfigs/activity_fcr.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_fcr/20180521_200859.json'
+[DEBUG][18-05-21 20:08:20][user=fs]: begin new upload file '/data/zkroot/zkconfigs/activity_fcr.json'!
+[DEBUG][18-05-21 20:08:20][user=fs]: begin receive file(length=617): activity_fcr.json
+[DEBUG][18-05-21 20:08:20][user=fs]: receive file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 20:08:20][user=fs]: save upload file(activity_fcr.json) successfully!
+[DEBUG][18-05-21 20:08:20][user=fs]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_fcr.json' successfully!
+[DEBUG][18-05-21 20:08:20][user=fs]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:12445
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-21 20:13:20][user=fs]: receive and unpack upload information successfully: filename='propitems.conf', filelen=15545
+[DEBUG][18-05-21 20:13:20][user=fs]: file '/data/zkroot/zkconfigs/propitems.conf' has been exists! it has been move to '/data/zkroot/zkconfigs/propitems/20180521_201340.conf'
+[DEBUG][18-05-21 20:13:20][user=fs]: begin new upload file '/data/zkroot/zkconfigs/propitems.conf'!
+[DEBUG][18-05-21 20:13:20][user=fs]: begin receive file(length=15545): propitems.conf
+[DEBUG][18-05-21 20:13:20][user=fs]: receive file(propitems.conf) successfully!
+[DEBUG][18-05-21 20:13:20][user=fs]: save upload file(propitems.conf) successfully!
+[DEBUG][18-05-21 20:13:20][user=fs]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/propitems.conf' successfully!
+[DEBUG][18-05-21 20:13:20][user=fs]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:9317
+# ------------------------------------------------------------------------------------------
+[DEBUG][18-05-22 09:04:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=617
+[DEBUG][18-05-22 09:04:09][user=hyw]: file '/data/zkroot/zkconfigs/activity_fcr.json' has been exists! it has been move to '/data/zkroot/zkconfigs/activity_fcr/20180522_090455.json'
+[DEBUG][18-05-22 09:04:09][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_fcr.json'!
+[DEBUG][18-05-22 09:04:09][user=hyw]: begin receive file(length=617): activity_fcr.json
+[DEBUG][18-05-22 09:04:09][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][18-05-22 09:04:09][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][18-05-22 09:04:09][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_fcr.json' successfully!
+[DEBUG][18-05-22 09:04:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:12513
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-22 09:35:09][user=hyw]: receive and unpack upload information successfully: filename='activity_llogin.json', filelen=617
+[DEBUG][2018-05-22 09:35:09][user=hyw]: file '/data/zkroot/zkconfigs/activity_llogin.json' has existed! it has been move to '/data/zkroot/zkconfigs/activity_llogin/20180522_093555.json'
+[DEBUG][2018-05-22 09:35:09][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_llogin.json'!
+[DEBUG][2018-05-22 09:35:09][user=hyw]: begin receive file(length=617): activity_llogin.json
+[DEBUG][2018-05-22 09:35:09][user=hyw]: receive file(activity_llogin.json) successfully!
+[DEBUG][2018-05-22 09:35:09][user=hyw]: save upload file(activity_llogin.json) successfully!
+[DEBUG][2018-05-22 09:35:09][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_llogin.json' successfully!
+[DEBUG][2018-05-22 09:35:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:9740
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-22 09:43:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-22 09:43:09][user=hyw]: file '/data/zkroot/zkconfigs/activity_fcr.json' has existed! it has been move to '/data/zkroot/zkconfigs/activity_fcr/20180522_094314.json'
+[DEBUG][2018-05-22 09:43:09][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-22 09:43:09][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-22 09:43:09][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-22 09:43:09][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-22 09:43:09][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_fcr.json' successfully!
+[DEBUG][2018-05-22 09:43:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 121.35.185.53:9530
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-22 10:42:10][user=hyw]: receive and unpack upload information successfully: filename='activity_novice.json', filelen=559
+[DEBUG][2018-05-22 10:42:10][user=hyw]: file '/data/zkroot/zkconfigs/activity_novice.json' has existed! it has been move to '/data/zkroot/zkconfigs/activity_novice/20180522_104230.json'
+[DEBUG][2018-05-22 10:42:10][user=hyw]: begin new upload file '/data/zkroot/zkconfigs/activity_novice.json'!
+[DEBUG][2018-05-22 10:42:10][user=hyw]: begin receive file(length=559): activity_novice.json
+[DEBUG][2018-05-22 10:42:10][user=hyw]: receive file(activity_novice.json) successfully!
+[DEBUG][2018-05-22 10:42:10][user=hyw]: save upload file(activity_novice.json) successfully!
+[DEBUG][2018-05-22 10:42:10][user=hyw]: excute command '/data/zkroot/DoWork.sh /data/zkroot/zkconfigs/activity_novice.json' successfully!
+[DEBUG][2018-05-22 10:42:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:59094
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 09:56:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 09:56:09][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 09:56:09][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 09:56:09][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[ERROR][2018-05-24 09:56:09][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][2018-05-24 09:56:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:60338
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 09:57:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 09:57:09][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 09:57:09][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 09:57:09][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[ERROR][2018-05-24 09:57:09][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][2018-05-24 09:57:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:61210
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 09:59:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 09:59:09][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 09:59:09][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 09:59:09][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 09:59:09][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 09:59:09][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 09:59:09][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 09:59:09][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 09:59:09][user=hyw]: begin copy the new file to history folder: 20180524_095911_848[hyw].json
+[ERROR][2018-05-24 09:59:09][user=hyw]: copy new file to history folder fail: global name 'newFile' is not defined
+[DEBUG][2018-05-24 09:59:09][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[ERROR][2018-05-24 09:59:09][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][2018-05-24 09:59:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:61284
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 09:59:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 09:59:09][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 09:59:09][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 09:59:09][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[ERROR][2018-05-24 09:59:09][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][2018-05-24 09:59:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:61511
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 09:59:09][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 09:59:09][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 09:59:09][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 09:59:09][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[ERROR][2018-05-24 09:59:09][user=hyw]: send upload information received confirm to client fail: 
+[DEBUG][2018-05-24 09:59:09][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62427
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:01:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:01:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:01:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:01:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:01:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:01:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:01:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62839
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:01:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:01:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:01:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:01:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:01:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:01:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:01:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:63648
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:03:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:03:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:03:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:03:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:03:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:03:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:03:10][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:03:10][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:03:10][user=hyw]: begin copy the new file to history folder: 20180524_100302_167[hyw].json
+[ERROR][2018-05-24 10:03:10][user=hyw]: copy new file to history folder fail: global name 'newFile' is not defined
+[DEBUG][2018-05-24 10:03:10][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 10:03:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:03:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:64434
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:04:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:04:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:04:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:04:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:04:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:04:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:04:10][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:04:10][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:04:10][user=hyw]: begin copy the new file to history folder: 20180524_100420_707[hyw].json
+[ERROR][2018-05-24 10:04:10][user=hyw]: copy new file to history folder fail: global name 'newFile' is not defined
+[DEBUG][2018-05-24 10:04:10][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 10:04:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:04:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:49421
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:05:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:05:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:05:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:05:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:05:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:05:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:05:10][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:05:10][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:05:10][user=hyw]: begin copy the new file to history folder: 20180524_100555_940[hyw].json
+[ERROR][2018-05-24 10:05:10][user=hyw]: copy new file to history folder fail: global name 'newFile' is not defined
+[DEBUG][2018-05-24 10:05:10][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 10:05:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:05:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53717
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:11:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:11:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:11:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:11:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:11:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:11:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:11:10][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:11:10][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:11:10][user=hyw]: begin copy the new file to history folder: 20180524_101102_346[hyw].json
+[DEBUG][2018-05-24 10:11:10][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 10:11:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:11:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:54840
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:12:10][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 10:12:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:12:10][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 10:12:10][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 10:12:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:12:10][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 10:12:10][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:12:10][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 10:12:10][user=hyw]: begin copy the new file to history folder: 20180524_101227_288[hyw].json
+[DEBUG][2018-05-24 10:12:10][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 10:12:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:12:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:55054
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:12:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:12:10][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 10:12:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:56626
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 10:15:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:15:10][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 10:15:10][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 10:15:10][user=hyw]: 0 history config file list is begin send to client!
+[ERROR][2018-05-24 10:15:10][user=hyw]: send history config file list fail: must be string or buffer, not int
+[DEBUG][2018-05-24 10:15:10][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 10:15:10][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53588
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 11:27:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:27:11][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 11:27:11][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 11:27:11][user=hyw]: 0 history config file list is begin send to client!
+[ERROR][2018-05-24 11:27:11][user=hyw]: send history config file list fail: must be string or buffer, not int
+[DEBUG][2018-05-24 11:27:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:27:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:56099
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 11:31:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:31:11][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 11:31:11][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 11:31:11][user=hyw]: 0 history config file list is begin send to client!
+[ERROR][2018-05-24 11:31:11][user=hyw]: send history config file list fail: must be string or buffer, not int
+[DEBUG][2018-05-24 11:31:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:31:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:56124
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 11:31:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:31:11][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 11:31:11][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 11:31:11][user=hyw]: 0 history config file list is begin send to client!
+[ERROR][2018-05-24 11:31:11][user=hyw]: send history config file list fail: must be string or buffer, not int
+[DEBUG][2018-05-24 11:31:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:31:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62417
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 11:39:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:39:11][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 11:39:11][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 11:39:11][user=hyw]: 0 history config file list is begin send to client!
+[ERROR][2018-05-24 11:39:11][user=hyw]: send history config file list fail: must be string or buffer, not int
+[DEBUG][2018-05-24 11:39:11][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 11:39:11][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:50575
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:34:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:34:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:34:14][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 14:34:14][user=hyw]: 0 history config file list is begin send to client!
+[DEBUG][2018-05-24 14:34:14][user=hyw]: 0 history config file list has sended to client!
+[DEBUG][2018-05-24 14:34:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:34:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:51149
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:35:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:35:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:35:14][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 14:35:14][user=hyw]: 0 history config file list begin send to client!
+[DEBUG][2018-05-24 14:35:14][user=hyw]: 0 history config file list has sended to client!
+[DEBUG][2018-05-24 14:35:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:35:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:52254
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:37:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:37:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:37:14][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 14:37:14][user=hyw]: 0 history config file list begin send to client!
+[DEBUG][2018-05-24 14:37:14][user=hyw]: 0 history config file list has sended to client!
+[DEBUG][2018-05-24 14:37:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:37:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53262
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:39:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:39:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:39:14][user=hyw]: 0 history config files found!
+[DEBUG][2018-05-24 14:39:14][user=hyw]: 0 history config file list begin send to client!
+[DEBUG][2018-05-24 14:39:14][user=hyw]: 0 history config file list has sended to client!
+[DEBUG][2018-05-24 14:39:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:39:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53887
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:40:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:40:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:40:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:40:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:40:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:40:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:40:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:54781
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:41:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:41:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:41:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:41:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:41:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:41:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:41:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:55092
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:42:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:42:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:42:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:42:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:42:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:42:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:42:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:55572
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:43:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:43:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:43:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:43:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:43:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:43:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:43:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:59424
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:48:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:48:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:48:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:48:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:48:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:48:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:48:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:60299
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:50:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:50:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:50:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:50:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:50:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:50:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:50:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:50011
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 14:59:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:59:14][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 14:59:14][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 14:59:14][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 14:59:14][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 14:59:14][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 14:59:14][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:51809
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:01:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:01:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:01:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:01:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:01:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:01:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:01:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:52340
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:02:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:02:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:02:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:02:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:02:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:02:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:02:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62612
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:14:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:14:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:14:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:63556
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:14:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:14:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:14:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:14:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:64096
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:15:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:15:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:15:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:15:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:15:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:15:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:15:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65139
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65199
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65305
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config files found!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config file list begin send to client!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: 2 history config file list has sended to client!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:49237
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:37:15][user=hyw]: receive and unpack upload information successfully: filename='activity_fcr.json', filelen=815
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: action = 1 and now begin receive upload config file!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: begin new upload file '/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json'!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: begin receive file(length=815): activity_fcr.json
+[DEBUG][2018-05-24 15:37:15][user=hyw]: receive file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: save upload file(activity_fcr.json) successfully!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: begin copy the new file to history folder: 20180524_153759_219[hyw].json
+[DEBUG][2018-05-24 15:37:15][user=hyw]: history file has been saved: /data/share/test/pytest/server/prj/zkconfigs/activity_fcr/20180524_153759_219[hyw].json
+[DEBUG][2018-05-24 15:37:15][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 15:37:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:37:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:49273
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:38:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:38:15][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 15:38:15][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 15:38:15][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 15:38:15][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 15:38:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:38:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:50340
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 15:39:15][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 15:39:15][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:57219
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:18:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:18:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:18:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:18:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:18:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:18:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:18:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:58065
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:19:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:19:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:19:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:19:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:19:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:19:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:19:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62154
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:24:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:24:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:24:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62441
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:24:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:24:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:24:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:24:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65178
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:29:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:29:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:29:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65257
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:29:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:29:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:29:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:65347
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:29:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:29:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:29:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:29:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:56755
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:37:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:37:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:37:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:37:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:37:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:37:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:37:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:57306
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:38:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:38:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:38:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:38:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:38:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:38:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:38:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:57406
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:39:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:39:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:57865
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:40:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:40:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:40:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:40:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:40:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:40:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:40:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:57868
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:40:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:40:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101102_346[hyw].json!
+[ERROR][2018-05-24 17:40:17][user=hyw]: history config file is not exists: ./activity_fcr\20180524_101102_346[hyw].json
+[DEBUG][2018-05-24 17:40:17][user=hyw]: response status to client: 11
+[DEBUG][2018-05-24 17:40:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:60900
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:45:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:45:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:45:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:45:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:45:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:45:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:45:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:60910
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:45:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:45:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[ERROR][2018-05-24 17:45:17][user=hyw]: history config file is not exists: ./activity_fcr\20180524_101227_288[hyw].json
+[DEBUG][2018-05-24 17:45:17][user=hyw]: response status to client: 11
+[DEBUG][2018-05-24 17:45:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:61347
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:46:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:46:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:46:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:46:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:46:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:46:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:46:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:61348
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:46:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:46:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:46:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/..json"' successfully!
+[DEBUG][2018-05-24 17:46:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:46:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62914
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:47:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:47:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:47:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:47:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:47:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:47:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:47:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:62916
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:47:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:47:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:47:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/..json"' successfully!
+[DEBUG][2018-05-24 17:47:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:47:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:63551
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:48:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:48:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:48:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:48:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:48:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:48:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:48:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:63584
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:48:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:48:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:48:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/..json"' successfully!
+[DEBUG][2018-05-24 17:48:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:48:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:51476
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:55:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:55:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:55:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:55:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:55:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:55:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:55:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:51486
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:56:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:56:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:56:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/..json"' successfully!
+[DEBUG][2018-05-24 17:56:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:56:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:52715
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:57:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:57:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:57:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:57:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:57:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:57:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:57:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:52742
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:57:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:57:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:57:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 17:57:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:57:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53325
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:58:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:58:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:58:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:58:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:58:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:58:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:58:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53327
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:58:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:58:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:58:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 17:58:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:58:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53714
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:53757
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr\20180524_101102_346[hyw].json!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:54123
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: action = 2 and now begin pull the config history list!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: 3 history config files found!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: 3 history config file list begin send to client!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: 3 history config file list has sended to client!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: upload receiver thread has released
+
+# ------------------------------------------------------------------------------------------
+# accept a net connection from: 192.168.2.179:54142
+# ------------------------------------------------------------------------------------------
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: action = 3 and now begin revert the old version: ./activity_fcr/20180524_101227_288[hyw].json!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: excute command 'cat "/data/share/test/pytest/server/prj/zkconfigs/activity_fcr.json"' successfully!
+[DEBUG][2018-05-24 17:59:17][user=hyw]: response status to client: 0
+[DEBUG][2018-05-24 17:59:17][user=hyw]: upload receiver thread has released
+

@@ -1,0 +1,30 @@
+{
+	"__comment__": {
+		"description": "活动配置 -- 限时礼包",
+		"servers": "activityserver",
+		"author": "DESKTOP-LD0VILC",
+		"dtime": "2018-05-23 10:42:50"
+	},
+	"2": {
+		"channelid": 7,
+		"ostype": 0,
+		"activityid": 3,
+		"name": "限时礼包",
+		"dsp": "没有",
+		"icon": "",
+		"showSite": 0,
+		"rewards": [[2, 2000, ""]],
+		"validTimes": [[64800, 72000]]
+	},
+	"3": {
+		"channelid": 2,
+		"ostype": 0,
+		"activityid": 3,
+		"name": "限时礼包",
+		"dsp": "没有",
+		"icon": "",
+		"showSite": 0,
+		"rewards": [[2, 2000, ""]],
+		"validTimes": [[64800, 72000]]
+	}
+}

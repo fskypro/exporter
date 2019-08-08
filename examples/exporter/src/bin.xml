@@ -1,0 +1,5 @@
+﻿<root>
+	<sysEncoding> GBK </sysEncoding>		<!-- 运行系统的系统编码 -->
+	<language> chs </language>				<!-- 语言 -->
+	<debug> False </debug>					<!-- 调试模式 -->
+</root>

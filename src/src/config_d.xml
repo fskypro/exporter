@@ -1,0 +1,79 @@
+<root>
+	<paths>
+		<tplRoots>													<!-- 导出模板的根路径 -->
+			<item> ..\..\tpls </item>									<!-- 可以列出多个路径，将会按顺序搜索模板 -->
+		</tplRoots>
+
+		<srcPluginRoot> </srcPluginRoot>							<!-- 数据源插件(相对可执行文件的路径)  -->
+		<dstPluginRoot> dstplugins </dstPluginRoot>					<!-- 导出数据插件(相对可执行文件的路径) -->
+
+		<srcRoots>													<!-- excel 根路径列表 -->
+			<item> ..\..\ </item>							<!-- 可以列出多个路径，将会按顺序搜索 -->
+		</srcRoots>
+		<dstRoot> ..\..\dstdatas </dstRoot>							<!-- 导出 python 配置的根路径 -->
+	</paths>
+
+
+	<!-- 对应数据源的额外属性 -->
+	<dataSource>
+		<encodings> ascii											<!-- 数据源默认编码 -->
+			<xls> ascii </xls>										<!-- xls 文件编码 -->
+			<xlsx> ascii </xlsx>
+			<csv> gbk </csv>										<!-- csv 文件编码 -->
+		</encodings>
+	</dataSource>
+
+	<!-- 对应 ConfigInfo 的额外属性 -->
+	<outInfo>
+		<dstEncoding> utf-8 </dstEncoding>						<!-- 导出配置编码方式 -->
+		<dstNewline> \n </dstNewline>							<!-- 导出配置中的换行符，填写：\n 或 \r\n -->
+	</outInfo>
+
+	<!-- 解释器中的配置属性（也可以在各个解释器中通过传入字典参数进行自己的特别制定） -->
+	<explainer>
+		<trues>
+			<item> True </item>
+			<item> true </item>
+			<item> T </item>
+			<item> t </item>
+		</trues>													<!-- 数据源中布尔真的表示法 -->
+		<falses>
+			<item> False </item>
+			<item> false </item>
+			<item> F </item>
+			<item> f </item>
+		</falses>													<!-- 数据源中布尔假的表示法 -->
+		<ignorSign> IGNOR </ignorSign>								<!-- 数据源填写该值，则该行会被忽略不导出 -->
+		<arrSplitters>												<!-- tuple 和 list 的元素分隔符（允许为多个）-->
+			<item> , </item>
+			<item> ，</item>
+		</arrSplitters>
+		<tupleScopeStarts>											<!-- 表示元组的区间起始字符 -->
+			<item> ( </item>
+			<item> （ </item>
+		</tupleScopeStarts>
+		<tupleScopeEnds>											<!-- 表示元组的区间结束字符 -->
+			<item> ) </item>
+			<item> ）</item>
+		</tupleScopeEnds>
+		<listScopeStarts>											<!-- 表示列表的区间起始字符 -->
+			<item> [ </item>
+			<item> 【 </item>
+		</listScopeStarts>
+		<listScopeEnds>												<!-- 表示列表的区间结束字符 -->
+			<item> ] </item>
+			<item> 】 </item>
+		</listScopeEnds>
+		<decimalDigits> 2 </decimalDigits>							<!-- 小数后保留几位数 -->
+	</explainer>
+
+
+	<!-- 下面是用户自定义配置，可以在这里添加任何标签，然后通过 customConfig.query(key) 来获取配置内容 -->
+	<custom>
+		<showProgress> False </showProgress>							<!-- 是否显示导出进度 -->
+		<blockSplitter> = </blockSplitter>							<!-- 控制台输出信息块分隔符 -->
+		<blockWidth> 80 </blockWidth>								<!-- 控制台输出信息区块宽度 -->
+		<pbarLen> 20 </pbarLen>										<!-- 进度条长度 -->
+		<pbarChar> &#x3e; </pbarChar>								<!-- 进度条字符 -->
+	</custom>
+</root>

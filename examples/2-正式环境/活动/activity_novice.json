@@ -1,0 +1,28 @@
+{
+	"__comment__": {
+		"description": "活动配置 -- 新手礼包",
+		"servers": "activityserver",
+		"author": "DESKTOP-LD0VILC",
+		"dtime": "2018-05-23 10:46:20"
+	},
+	"2": {
+		"channelid": 7,
+		"ostype": 0,
+		"activityid": 1,
+		"name": "新手礼包",
+		"dsp": "没有",
+		"icon": "",
+		"showSite": 0,
+		"rewards": [[2, 8000, ""], [3, 5, ""]]
+	},
+	"3": {
+		"channelid": 2,
+		"ostype": 0,
+		"activityid": 1,
+		"name": "新手礼包",
+		"dsp": "没有",
+		"icon": "",
+		"showSite": 0,
+		"rewards": [[2, 8000, ""], [3, 5, ""]]
+	}
+}

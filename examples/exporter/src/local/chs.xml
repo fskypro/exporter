@@ -1,0 +1,106 @@
+<root>
+	<config>
+		<errTitle> 配置异常：</errTitle>
+		<errNoConfig> 找不到用户配置文件：%(file)s </errNoConfig>
+		<errTagUnexist> config.xml 中不存在标记：%(path)s </errTagUnexist>
+		<errValueError> config.xml 中的标记类型不正确：%(tag)s </errValueError>
+	</config>
+
+	<encoding>
+		<errTitle> 编码转换异常：</errTitle>
+		<errConvert> 编码转换异常（%(x2x)s）请查看编码配置是否正确。 </errConvert>
+	</encoding>
+
+	<encoding>
+		<errEncoding> 编码异常：</errEncoding>
+	</encoding>
+
+	<dataSource>
+		<errTitle> 数据源异常 </errTitle>
+		<errNoTableHead> 表“%(src)s”中不存在名为“%(col)s”的列，是不是导出模板中表头行索引设置错误？ </errNoTableHead>
+		<warnDBHeadName> &#x20;&#x20;警告：列 %(col1)s 与列 %(col2)s 的名称皆为：%(name)s。 </warnDBHeadName>
+	</dataSource>
+
+	<expression>
+		<errTitle> 导出表达式异常： </errTitle>
+	</expression>
+	<explain>
+		<errTitle> 解释数据异常： </errTitle>
+
+		<errEmptyKey> 错误：python 导出表达式中存在空参数键解释器“%(cls)s("")”（即空表头）。 </errEmptyKey>
+		<errUnsupportType> 解释器“%(cls)s”不支持类型：%(type)r </errUnsupportType>
+		<errFillCount> 列“%(col)s”其解释器“%(cls)s”的替补元素个数必须为 %(count)i 个。</errFillCount>
+
+		<errType> 表格类型错误：%(table)s&#xa;第 %(row)i 行(首行为第 1 行)“%(col)s”的文本类型或格式不正确：“%(text)s”！ </errType>
+		<errEnumType> 第 %(row)i 行(首行为第 1 行)“%(col)s”的文本必须在以下集合中选取：%(enums)s。</errEnumType>
+
+		<errNoLinkKey> 连接表“%(file)s::[%(sheet)s]”中不存在值为“%(key)s”的键。 </errNoLinkKey>
+		<errMultiLinkKey> “%(cls)s”只支持只有一个外键的连接表，要支持多个，必须重写它方法“%(method)s”。</errMultiLinkKey>
+		<errLinkExpType> 外链表的表达式类型必须是 dict/list/tuple 或 f_base 的子类实例。 </errLinkExpType>
+
+		<errExplainText> 用解释器 %(exp)s 解释无法解释文本：%(text)s。</errExplainText>
+	</explain>
+
+	<export>
+		<tipsExporedInfo> 导出信息： </tipsExporedInfo>
+		<tipsSrcData> 数据源： </tipsSrcData>
+		<tipsDstFile> 导出配置文件：&#xa;&#x23;   %(file)s </tipsDstFile>
+		<tipsScanSrcData> 正在扫描数据：&#xa;  %(path)s </tipsScanSrcData>
+		<tipsWriteOut> 正在写入配置（%(name)s）：</tipsWriteOut>
+
+		<tipsRowCount> 表的总记录数：%(count)i </tipsRowCount>
+		<tipsEmptyRowCount> 因空行而忽略的记录数（包括空键）：%(count)i </tipsEmptyRowCount>
+		<tipsDBRowCount> 因重复键而忽略的记录数：%(count)i </tipsDBRowCount>
+		<tipsIgnorCount> 主动忽略的记录数：%(count)i </tipsIgnorCount>
+		<tipsValidCount> 有效的导出记录数：%(count)i </tipsValidCount>
+
+		<errTitle> 导出异常： </errTitle>
+		<errFirstKey> 错误：字典表达式的键必须是一个元组或“%(cls)s”的子类对象 </errFirstKey>
+		<errElemValue> 键为 %(key)s 的行存在一个不合法的值“%(value)s”。可能是数据重组后返回了这个非基本类型的值。</errElemValue>
+		<errNoConfigInfo> 导出模板必须包含一个名为“%(outInfo)s” 的 OutInfo 全局对象，或一个名为“%(outInfos)s”的 outInfo 全局对象列表。 </errNoConfigInfo>
+		<errSaveFilePath> 写入配置失败，配置所在目录不存在：“%(path)s”，请先建立该目录。 </errSaveFilePath>
+		<errSaveFileName> 写入配置失败：%(file)s&#xa;%(msg)s。</errSaveFileName>
+		<errSaveOutBuff> 写入配置失败，缓冲溢出。 </errSaveOutBuff>
+
+		<warnEmptyRows> &#x20;&#x20;警告：以下行的键为空，导出时被忽略：&#xa;  %(rows)r </warnEmptyRows>
+		<warnDBKey> 警告：以下键重复，虽然都能写入配置，但只有最后一条生效（格式：[键(重复数)]）：&#xa;  %(keys)s </warnDBKey>
+	</export>
+
+	<!-- custom messages -->
+	<excelApp>
+		<tipsReleaseExcel> 已释放 Excel 的操作权。 </tipsReleaseExcel>
+		<errUnexist> EXCEL 文件“%(file)s”不存在。 </errUnexist>
+		<errInEdit> 请查看 Excel 表格是不是正处于被编辑状态，请先保存后再导出。 </errInEdit>
+		<errSheetUnexist> Excel 文件“%(file)s”中不存在名为“%(sheet)s”的分页。 </errSheetUnexist>
+		<errClose> 关闭 EXCEL 工作簿(%(file)s)失败：%(msg)s </errClose>
+		<errSave> 保存 EXCEL 工作簿(%(file)s)失败：%(msg)s </errSave>
+	</excelApp>
+
+	<csvApp>
+		<errUnexist> csv 文件不存在：%(file)s </errUnexist>
+	</csvApp>
+
+	<theme>
+		<tipsProgramInfo> 程序信息：</tipsProgramInfo>
+		<tipsTplFile> 导出模板：&#xa;&#x23;   %(file)s </tipsTplFile>
+		<tipsLoadDataSource> 开始加载数据源：%(src)s </tipsLoadDataSource>
+		<tipsLoadDataSourceProgress> &#x20;&#x20;请稍后: %%(pbar)-%(pbarLen)is| </tipsLoadDataSourceProgress>
+
+		<errorArgs> 参数必须为导出模板文件路径！</errorArgs>
+		<errTplFileUnxist> 导出模板文件不存在：%(tpl)s </errTplFileUnxist>
+
+		<tipsBeginExportItem> 准备导出：%(dname)s </tipsBeginExportItem>
+		<tipsWasteSndTime> %(tips)s：%(snd)0.2f 秒 </tipsWasteSndTime>
+		<tipsWasteMinuteTime> %(tips)s：%(minute)i 分 %(snd)i 秒 </tipsWasteMinuteTime>
+		<tipsWasteHourTime> %(tips)s：%(hour)i 小时 %(minute)i 分 %(snd)i 秒 </tipsWasteHourTime>
+		<tipsProgress> &#x20;&#x20;&gt;&gt;&gt; 当前进度：%(passed)i/%(rows)i | %(percent)0.2f％ </tipsProgress>
+
+		<tipsReadTableWaste> 加载数据耗时：%(v)0.2fs </tipsReadTableWaste>
+		<tipsExplainWaste> 扫描数据耗时：%(v)0.2fs </tipsExplainWaste>
+		<tipsWriteOutWaste> 导出配置耗时：%(v)0.2fs </tipsWriteOutWaste>
+		<tipsTotalWaste> 总耗时：%(v)0.2fs </tipsTotalWaste>
+
+		<tipsExportSuccess> 导出成功！</tipsExportSuccess>
+		<tipsExportFail> 导出失败！</tipsExportFail>
+	</theme>
+</root>
